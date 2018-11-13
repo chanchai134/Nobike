@@ -4,6 +4,7 @@
 นายชาญชัย ชนาเทพาพร 5910503707 <br/>
 ชั้นปีที่ 2 ปีการศึกษา 2560 คณะ วิศวกรรมศาสตร์ ภาควิชาคอมพิวเตอร์ มหาวิทยาลัย เกษตรศาสตร์ บางเขน <br/>
 
+<h4>การใช้งาน files</h4>
 ไฟล์ : nobike_website.rar <br/>
 เก็บโค้ดในการทำ mobile app ทั้งหมด โดยเริ่มต้นที่ไฟล์ index.html โดยใส่ลงใน www folder ของ <br/>
 web server ที่รองรับระบบ php <br/>
@@ -20,7 +21,7 @@ web server ที่รองรับระบบ php <br/>
 ไฟล์โค้ด esp8266_module.ino : เป็นโค้ดในการรับคำสั่งจาก server <br/>
 
 
-<h4>อุปกรณ์ที่ใช้</h4><br/>
+<h4>อุปกรณ์ที่ใช้</h4>
 Practicum Board 2 ชิ้น <br/>
 GPS Module neo6mv2 1 ชิ้น <br/>
 ESP WiFi Module 2 ชิ้น <br/>
@@ -30,7 +31,7 @@ LED 2 หลอด <br/>
 Buzzer 1 ชิ้น <br/>
 ตัวต้านทาน(ขนาด) 3 ตัว <br/>
 
-<h4>ไลบรารีที่ใช้ </h4><br/>
+<h4>ไลบรารีที่ใช้ </h4>
 ESP8266WiFi.h <br/>
 
 Link สำหรับการเลือก Board เป็น WiFi module ใน Arduino ide <br/>
